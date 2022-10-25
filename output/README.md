@@ -1,9 +1,9 @@
-# README Generator 
+# Forecast Finder 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
 ## Description  
 <a name="descrip"></a>
-A command line application to easily and efficiently generate professional README files with minimal knowledge of markdown formatting. 
+An all purpose weather application for finding current weather and a five day forecast. 
  
 ## Table of Contents 
 - [Description](#description)
@@ -24,31 +24,30 @@ A command line application to easily and efficiently generate professional READM
 ## Installation Instructions 
 <a name="instr"></a> 
  
->To install this application, use Git Bash to clone this project's repo to your local machine. If there are any issues cloning the repo, refer to the GitHub docs: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
+>Use the following link to the deployed site to use the application. 
  
 ## Usage information 
 <a name="usage"></a>  
  
->After cloning down the repo for this project and installing VS Code and Node, open the repo directory in VS Code. After opening VS Code, open an integrated Git Bash terminal and run the command "node index.js." This will run the prompts to create a new file and output the created file to the output folder. Keep in mind that there is only one output file present in the folder at any given time, and the file should be copied before running the program again to prevent overwriting. 
+>Click the city button in the top right to input a new city name. After putting a city name in the box that pops up, choose the desired city from the validation modal and the results will populate on the page. 
  
 ## Contribution Guidelines 
 <a name="contribution"></a>  
  
->If you wish to contribute to the project 
+>Please feel free to contribute to this project by checking out the issues page for the associated repo 
  
 ## Test Instructions 
 <a name="testing"></a>  
  
->There are no test cases written for this application. 
+>No tests provided for this project 
  
 ## License 
 <a name="licence"></a>  
-This software is licensed under the
-MIT License, for further information or to read the documentation, visit (https://opensource.org/licenses/MIT). 
+>This software is licensed under the MIT License, for further information or to read the documentation, visit (https://opensource.org/licenses/MIT). 
  
 ## Questions 
-<a name="ques"></a> 
+<a name="questions"></a> 
 
-If you have any questions please check the issue for the associated repo at my github account: dcodner24 
+>If you have any questions please check the issue for the associated repo at my github account: dcodner24 
 
-For any additional questions, feel free to contact me at my work email: dccodner24@gmail.com
+>For any additional questions, feel free to contact me at my work email: email@email.com
