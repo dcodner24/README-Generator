@@ -18,6 +18,8 @@ A command line application to easily and efficiently generate professional READM
 
 - [License](#license) 
 
+- [Credits](#credits)
+
 - [Questions](#questions) 
 
  
@@ -42,13 +44,18 @@ A command line application to easily and efficiently generate professional READM
 >There are no test cases written for this application. 
  
 ## License 
-<a name="licence"></a>  
-This software is licensed under the
-MIT License, for further information or to read the documentation, visit (https://opensource.org/licenses/MIT). 
+<a name="licence"></a> 
+
+>This software is licensed under the MIT License, for further information or to read the documentation, visit (https://opensource.org/licenses/MIT).
+
+## Credits
+<a name="credits"></a>
  
-## Questions 
-<a name="ques"></a> 
+>Credit to Brandon Knight for the idea to use switch cases for this project, check out his GitHub for more: https://github.com/blksmk8483
 
-If you have any questions please check the issue for the associated repo at my github account: dcodner24 
+## Questions
+<a name="questions"></a> 
 
-For any additional questions, feel free to contact me at my work email: dccodner24@gmail.com
+>If you have any questions please check the issue for the associated repo at my github account: dcodner24
+
+>For any additional questions, feel free to contact me at my work email: dccodner24@gmail.com

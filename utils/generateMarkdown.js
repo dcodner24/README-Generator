@@ -89,13 +89,12 @@ ${answers.description}
  
 ## License 
 <a name="licence"></a>  
-This software is licensed under the
-${answers.license}, for further information or to read the documentation, visit ${licLink}. 
+>This software is licensed under the ${answers.license}, for further information or to read the documentation, visit ${licLink}. 
  
 ## Questions 
-<a name="ques"></a> 
+<a name="questions"></a> 
 
-If you have any questions please check the issue for the associated repo at my github account: ${answers.github} \n
-For any additional questions, feel free to contact me at my work email: ${answers.email}`
+>If you have any questions please check the issue for the associated repo at my github account: ${answers.github} \n
+>For any additional questions, feel free to contact me at my work email: ${answers.email}`
 }
 module.exports = generateMarkdown;
