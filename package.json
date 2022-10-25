@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcodner24/README-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dcodner24/README-Generator/issues"
+  },
+  "homepage": "https://github.com/dcodner24/README-Generator#readme"
 }
